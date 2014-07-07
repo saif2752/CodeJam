@@ -1,3 +1,0 @@
-CodeJam
-=======
-Saifuddin Batliwala
